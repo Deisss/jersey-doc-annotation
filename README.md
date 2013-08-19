@@ -12,6 +12,7 @@ This project add few annotation you can use on every class/method:
   * **ApiUnimplemented**: sign as not ready
 
 
+
 Usage
 -----
 We will describe here a basic (full) available usage:
@@ -41,6 +42,7 @@ __Don't forget all of them can be used both on class and/or method.__
 __Don't forget also, that, they don't provide any behaviour, as they are used only for documentation purpose.__
 
 
+
 Compile
 -------
 The project use maven to compile, on the root folder:
@@ -54,3 +56,10 @@ and then create a jar. That's all ! No dependencies !
 
 
 Have fun !
+
+
+
+Licence
+-------
+
+This project is licensed under MIT licence.
